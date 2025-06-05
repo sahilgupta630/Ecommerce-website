@@ -3,7 +3,7 @@
 [<img alt="Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript.png?raw=true" />](https://www.youtube.com/playlist?list=PL9bD98LkBR7O4_SVeN8IXLQRjrGontmbT)
 
 ## Ecommerce-website
-Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
+Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows to learn and develop a wide range of skills. Some of the things might learn while creating an e-commerce website include:
 
 - HTML: HTML (HyperText Markup Language) is the standard markup language for creating web pages. By creating an e-commerce website, you will have the opportunity to learn how to use HTML to structure and format the content of your website, including headings, paragraphs, lists, links, images, and forms.
 
@@ -13,12 +13,12 @@ Creating an e-commerce website using HTML, CSS, and JavaScript can be a challeng
 
 - E-commerce concepts: In addition to learning about HTML, CSS, and JavaScript, creating an e-commerce website also provides the opportunity to learn about the principles and practices of e-commerce. This might include topics such as product catalog management, shopping cart functionality, payment processing, and order fulfillment.
 
-Overall, creating an e-commerce website using HTML, CSS, and JavaScript can be a rewarding and challenging project that allows you to learn a wide range of technical and business skills.
+Overall, creating an e-commerce website using HTML, CSS, and JavaScript can be a rewarding and challenging project that allows to learn a wide range of technical and business skills.
 
 ## Adding Bootstrap
 In addition to HTML, CSS, and JavaScript, using Bootstrap can also be a helpful way to create an e-commerce website. Bootstrap is a front-end framework that provides pre-designed HTML, CSS, and JavaScript components that can be used to create responsive, mobile-first websites.
 
-Some of the things you might learn by using Bootstrap to create an e-commerce website include:
+Some of the things might learn by using Bootstrap to create an e-commerce website include:
 
 - Responsive design: Bootstrap is designed to be responsive, which means that it adjusts the layout and styling of a website to provide an optimal viewing experience on a wide range of devices, from small smartphones to large desktop monitors. By using Bootstrap, you can learn how to create websites that look and function well on different devices and screen sizes.
 
